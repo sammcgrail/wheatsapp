@@ -1,0 +1,8 @@
+{
+  "name": "wheatsapp",
+  "version": "1.0.0",
+  "main": "functions/index.js",
+  "repository": "https://github.com/sammcgrail/wheatsapp.git",
+  "author": "Sam McGrail <sammcgrail@gmail.com>",
+  "license": "MIT"
+}
