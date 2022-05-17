@@ -1,3 +1,9 @@
+node_modules
+.firebase
+.firebase/
+firebase-debug.log
+functions
+
 # Logs
 logs
 *.log
